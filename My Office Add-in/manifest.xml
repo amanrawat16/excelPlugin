@@ -11,6 +11,22 @@
   <SupportUrl DefaultValue="https://www.contoso.com/help"/>
   <AppDomains>
     <AppDomain>https://www.contoso.com</AppDomain>
+    <AppDomain>http://localhost:8000</AppDomain>
+    <AppDomain>https://localhost:8000</AppDomain>
+    <AppDomain>http://192.168.31.161:8000</AppDomain>
+    <AppDomain>https://192.168.31.161:8000</AppDomain>
+    <AppDomain>https://silly-bikes-reply.loca.lt</AppDomain>
+    <AppDomain>https://excelscoring.loca.lt</AppDomain>
+    <AppDomain>https://excelai2024.loca.lt</AppDomain>
+    <AppDomain>https://exceladdin2024.loca.lt</AppDomain>
+    <AppDomain>https://appsforoffice.microsoft.com</AppDomain>
+    <AppDomain>https://secure.aadcdn.microsoftonline-p.com</AppDomain>
+    <AppDomain>https://az689774.vo.msecnd.net</AppDomain>
+    <AppDomain>https://nexus.officeapps.live.com</AppDomain>
+    <AppDomain>https://browser.pipe.aria.microsoft.com</AppDomain>
+    <AppDomain>https://telemetryservice.firstpartyapps.oaspapps.com</AppDomain>
+    <AppDomain>https://breezy-fans-see.loca.lt</AppDomain>
+    <AppDomain>https://nasty-ears-decide.loca.lt</AppDomain>
   </AppDomains>
   <Hosts>
     <Host Name="Workbook"/>
